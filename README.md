@@ -1,6 +1,6 @@
 # CS204 – Advanced Programming (Spring 2024)
 
-This repository contains my personal solutions to all six assignments of the CS204 course at Sabancı University. The assignments cover a wide range of advanced C++ topics, including dynamic memory management, linked data structures, object-oriented programming, operator overloading, game simulation, and multithreading with synchronization.
+This repository contains my personal solutions to all six assignments of the CS204 course. The assignments cover a wide range of advanced C++ topics, including dynamic memory management, linked data structures, object-oriented programming, operator overloading, game simulation, and multithreading with synchronization.
 
 ---
 
