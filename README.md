@@ -1,6 +1,6 @@
 # CS204 – Advanced Programming
 
-This repository contains my personal solutions to all six assignments of the CS204 course. The assignments cover a wide range of advanced C++ topics, including dynamic memory management, linked data structures, object-oriented programming, operator overloading, game simulation, and multithreading with synchronization.
+This repository contains my personal solutions to all six Take-Home Exam Assignments of the CS204 course. The assignments cover a wide range of advanced C++ topics, including dynamic memory management, linked data structures, object-oriented programming, operator overloading, game simulation, and multithreading with synchronization.
 
 ---
 
